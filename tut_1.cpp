@@ -134,7 +134,7 @@ class Yamaha : public bike
 public:
     void bike_avg()
     {
-        cout << "Yamaha gives average of 30km per litter of petrol\n";
+        cout << "Yamaha gives average of 30km per litter of petrol and gas\n";
     }
 };
 
